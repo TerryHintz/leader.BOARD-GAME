@@ -62,8 +62,7 @@ We will not use this for now.
 
 ### Resources
 
-Elo Calculator:
-https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing
+[Elo Calculator](https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing)
 
 ### Patch Notes
 
