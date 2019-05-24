@@ -17,6 +17,8 @@ We will not use this for now.
 | Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Azul Leaderboard
 
@@ -25,6 +27,18 @@ We will not use this for now.
 | Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
+
+### Santorini Leaderboard
+
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Recent Match Results
 
