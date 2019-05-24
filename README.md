@@ -12,19 +12,19 @@ We will not use this for now.
 
 ### Catan Leaderboard
 
-| Player | Wins | Loses | Draws | Win % | +/- |
-|--------|------|-------|-------|-------|-----|
-| Leo    | 0    | 0     | 0     | 0     | 0   |
-| Gaurav | 0    | 0     | 0     | 0     | 0   |
-|        |      |       |       |       |     |
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
+|        |      |      |       |       |       |     |
 
 ### Azul Leaderboard
 
-| Player | Wins | Loses | Draws | Win % | +/- |
-|--------|------|-------|-------|-------|-----|
-| Leo    | 0    | 0     | 0     | 0     | 0   |
-| Gaurav | 0    | 0     | 0     | 0     | 0   |
-|        |      |       |       |       |     |
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
+|        |      |      |       |       |       |     |
 
 ### Recent Match Results
 
