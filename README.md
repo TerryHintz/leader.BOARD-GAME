@@ -4,11 +4,11 @@ Database for leaderboard and game history
 
 ### News
 
-05/24/2019 - Website Born
+<span style="color:red">05/24/2019</span> - Website Born
 
-05/24/2019 - Gaurav created versions 1.0 of leaderboard.xls
+<span style="color:red">05/24/2019</span> - Gaurav created versions 1.0 of leaderboard.xls
 
-05/24/2019 - Leo patched leaderboard.xls
+<span style="color:red">05/24/2019</span> - Leo patched leaderboard.xls
 
 version 2.0:
 
