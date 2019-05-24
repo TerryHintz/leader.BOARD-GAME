@@ -5,6 +5,13 @@ Database for leaderboard and game history
 ### News
 
 05/24/2019 - Website Born
+05/24/2019 - Gaurav created versions 1.0 of leaderboard.xls
+05/24/2019 - Leo patched leaderboard.xls
+version 2.0:
+  Formula for calculating fixed(swapped Bx and Cx)
+  Starting Elo changed to 1000
+  Constant changed from 8 -> 40
+  Added 2 columns for loser Elo lose for games with 3+ players
 
 ### Global Leaderboard
 
