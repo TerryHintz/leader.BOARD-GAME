@@ -8,21 +8,26 @@ Database for leaderboard and game history
 
 ### Global Leaderboard
 
-Player | ELO | Wins | Loses | Win % | +/-
---- | --- | --- | --- | --- | --- | --- 
-Leo | 1000 | 0 | 0 | 0 | 0 
+| Player | Wins | Loses | Draws | Win % | +/- |
+|--------|------|-------|-------|-------|-----|
+| Leo    | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 0    | 0     | 0     | 0     | 0   |
+|        |      |       |       |       |     |
 
 ### Catan Leaderboard
 
-Player | ELO | Wins | Loses | Win % | +/-
---- | --- | --- | --- | --- | --- | --- 
-Leo | 1000 | 0 | 0 | 0 | 0 
-
+| Player | Wins | Loses | Draws | Win % | +/- |
+|--------|------|-------|-------|-------|-----|
+| Leo    | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 0    | 0     | 0     | 0     | 0   |
+|        |      |       |       |       |     |
 ### Azul Leaderboard
 
-Player | ELO | Wins | Loses | Win % | +/-
---- | --- | --- | --- | --- | --- | --- 
-Leo | 1000 | 0 | 0 | 0 | 0 
+| Player | Wins | Loses | Draws | Win % | +/- |
+|--------|------|-------|-------|-------|-----|
+| Leo    | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 0    | 0     | 0     | 0     | 0   |
+|        |      |       |       |       |     |
 
 ### Recent Match Results
 
