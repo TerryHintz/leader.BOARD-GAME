@@ -70,6 +70,8 @@ Friday   - 12:30pm - RCB 8104
 
 ### Patch Notes
 
+<span style="color:red">05/24/2019</span> - Leo added Resources section
+
 <span style="color:red">05/24/2019</span> - Leo added more leaderboards and updated the style for Recent Matches
 
 <span style="color:red">05/24/2019</span> - Leo patched leaderboard.xls
