@@ -28,7 +28,13 @@ We will not use this for now.
 
 ### Recent Match Results
 
-Leo beat Gaurav and Jakub in Catan cuz Jakub threw the game and Gaurav didn't know what to do with 9 points
+| Game:  | Catan  | Type: | Casual |
+|--------|--------|-------|--------|
+|        |        |       |        |
+| Player | Result | Elo   | Change |
+| Leo    | Win    | 1000  | 0      |
+| Jakub  | Lose   | 1000  | 0      |
+| Gaurav | Lose   | 1000  | 0      |
 
 ### Patch Notes
 
