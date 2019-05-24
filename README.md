@@ -10,7 +10,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Global Leaderboard
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TerryHintz/leader.BOARD-GAME/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 ### Recent Match Results
 
