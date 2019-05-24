@@ -8,11 +8,7 @@ Database for leaderboard and game history
 
 ### Global Leaderboard
 
-| Player | Wins | Loses | Draws | Win % | +/- |
-|--------|------|-------|-------|-------|-----|
-| Leo    | 0    | 0     | 0     | 0     | 0   |
-| Gaurav | 0    | 0     | 0     | 0     | 0   |
-|        |      |       |       |       |     |
+We will not use this for now.
 
 ### Catan Leaderboard
 
