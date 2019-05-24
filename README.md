@@ -6,6 +6,10 @@ Database for leaderboard and game history
 
 No News
 
+### Song of the Week
+
+[Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
+
 ### Global Leaderboard
 
 We will not use this for now.
