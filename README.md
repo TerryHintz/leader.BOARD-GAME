@@ -10,6 +10,10 @@ No News
 
 [Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
 
+### Current Schedule
+Thursday - 3:30pm - Enginnering Common Room
+Friday   - 12:30pm - RCB 8104
+
 ### Catan Leaderboard
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
@@ -52,7 +56,7 @@ No News
 
 ### Recent Match Results
 
-## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span></center>
+## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: 05/23/2019</center>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
