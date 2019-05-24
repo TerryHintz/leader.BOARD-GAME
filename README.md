@@ -40,6 +40,16 @@ We will not use this for now.
 | Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
+### Love Letter Leaderboard
+
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
+
 ### Recent Match Results
 
 ## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span></center>
