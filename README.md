@@ -28,9 +28,8 @@ We will not use this for now.
 
 ### Recent Match Results
 
-| Game:  | Catan  | Type: | Casual |
-|--------|--------|-------|--------|
-|        |        |       |        |
+Game: <span style="color:yellow">Catan</span> Type: <span style="color:green">Casual</span>
+
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
 | Leo    | Win    | 1000  | 0      |
