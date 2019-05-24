@@ -10,10 +10,6 @@ No News
 
 [Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
 
-### Global Leaderboard
-
-We will not use this for now.
-
 ### Catan Leaderboard
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
