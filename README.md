@@ -12,13 +12,13 @@ Database for leaderboard and game history
 
 version 2.0:
 
-  Formula for calculating fixed(swapped Bx and Cx)
+• Formula for calculating fixed(swapped Bx and Cx)
   
-  Starting Elo changed to 1000
+• Starting Elo changed to 1000
   
-  Constant changed from 8 -> 40
+• Constant changed from 8 -> 40
   
-  Added 2 columns for loser Elo lose for games with 3+ players
+• Added 2 columns for loser Elo lose for games with 3+ players
 
 ### Global Leaderboard
 
