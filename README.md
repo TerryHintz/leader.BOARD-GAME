@@ -31,4 +31,4 @@ Database for leaderboard and game history
 
 ### Recent Match Results
 
-Leo beat Gaurav and Jakub cuz Jakub threw the game
+Leo beat Gaurav and Jakub in Catan cuz Jakub threw the game and Gaurav didn't know what to do with 9 points
