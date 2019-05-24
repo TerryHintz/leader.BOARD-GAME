@@ -32,6 +32,7 @@ We will not use this for now.
 |--------|--------|-------|--------|
 |        |        |       |        |
 | Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
 | Leo    | Win    | 1000  | 0      |
 | Jakub  | Lose   | 1000  | 0      |
 | Gaurav | Lose   | 1000  | 0      |
