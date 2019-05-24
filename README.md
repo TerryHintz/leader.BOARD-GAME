@@ -4,21 +4,7 @@ Database for leaderboard and game history
 
 ### News
 
-<span style="color:red">05/24/2019</span> - Website Born
-
-<span style="color:red">05/24/2019</span> - Gaurav created versions 1.0 of leaderboard.xls
-
-<span style="color:red">05/24/2019</span> - Leo patched leaderboard.xls
-
-version 2.0:
-
-• Formula for calculating fixed(swapped Bx and Cx)
-  
-• Starting Elo changed to 1000
-  
-• Constant changed from 8 -> 40
-  
-• Added 2 columns for loser Elo lose for games with 3+ players
+No News
 
 ### Global Leaderboard
 
@@ -43,3 +29,21 @@ We will not use this for now.
 ### Recent Match Results
 
 Leo beat Gaurav and Jakub in Catan cuz Jakub threw the game and Gaurav didn't know what to do with 9 points
+
+### Patch Notes
+
+<span style="color:red">05/24/2019</span> - Leo patched leaderboard.xls
+
+version 2.0:
+
+• Formula for calculating fixed(swapped Bx and Cx)
+  
+• Starting Elo changed to 1000
+  
+• Constant changed from 8 -> 40
+  
+• Added 2 columns for loser Elo lose for games with 3+ players
+
+<span style="color:red">05/24/2019</span> - Gaurav created versions 1.0 of leaderboard.xls
+
+<span style="color:red">05/24/2019</span> - Website Born
