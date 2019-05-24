@@ -42,7 +42,7 @@ We will not use this for now.
 
 ### Recent Match Results
 
-Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span>
+<center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span></center>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
