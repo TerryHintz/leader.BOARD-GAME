@@ -21,6 +21,7 @@ Database for leaderboard and game history
 | Leo    | 0    | 0     | 0     | 0     | 0   |
 | Gaurav | 0    | 0     | 0     | 0     | 0   |
 |        |      |       |       |       |     |
+
 ### Azul Leaderboard
 
 | Player | Wins | Loses | Draws | Win % | +/- |
