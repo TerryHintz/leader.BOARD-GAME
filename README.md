@@ -60,6 +60,11 @@ We will not use this for now.
 | Jakub  | Lose   | 1000  | 0      |
 | Gaurav | Lose   | 1000  | 0      |
 
+### Resources
+
+Elo Calculator:
+https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing
+
 ### Patch Notes
 
 <span style="color:red">05/24/2019</span> - Leo added more leaderboards and updated the style for Recent Matches
