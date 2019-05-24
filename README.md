@@ -56,7 +56,7 @@ Friday   - 12:30pm - RCB 8104
 
 ### Recent Match Results
 
-## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: 05/23/2019</center>
+## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: <span style="color:red">05/23/2019</span></center>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
