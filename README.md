@@ -6,9 +6,11 @@ Database for leaderboard and game history
 
 No News
 
-### Song of the Week
+### Trending Songs
 
 [Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
+
+[I'm so sick](https://www.youtube.com/watch?v=F4oHuML9U2A) - Apink
 
 ### Current Schedule
 Thursday - 3:30pm - Enginnering Common Room
