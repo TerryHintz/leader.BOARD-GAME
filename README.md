@@ -75,6 +75,14 @@ Friday   - 12:30pm - RCB 8104
 
 [Clash Royale Tier List](https://i.imgur.com/I2rCFlb.jpg)
 
+### Shop
+
+$5 - Reset all stats
+
+$2 - Have the option to hide elo
+
+$1 - Name change
+
 ### Patch Notes
 
 <span style="color:red">05/24/2019</span> - Leo added Resources, Song of the Week and Schedule section
