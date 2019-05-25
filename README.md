@@ -12,6 +12,7 @@ No News
 
 ### Current Schedule
 Thursday - 3:30pm - Enginnering Common Room
+
 Friday   - 12:30pm - RCB 8104
 
 ### Catan Leaderboard
