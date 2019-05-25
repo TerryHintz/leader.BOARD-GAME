@@ -73,6 +73,9 @@ Friday   - 12:30pm - RCB 8104
 
 [Twice Tier List](https://i.imgur.com/SCWPAk2.png)
 
+
+[Twice Tier List](https://i.imgur.com/I2rCFlb.jpg)
+
 ### Patch Notes
 
 <span style="color:red">05/24/2019</span> - Leo added Resources, Song of the Week and Schedule section
