@@ -71,6 +71,8 @@ Friday   - 12:30pm - RCB 8104
 
 [Elo Calculator](https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing)
 
+[Twice Tier List](https://i.imgur.com/SCWPAk2.png)
+
 ### Patch Notes
 
 <span style="color:red">05/24/2019</span> - Leo added Resources, Song of the Week and Schedule section
