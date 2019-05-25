@@ -73,8 +73,7 @@ Friday   - 12:30pm - RCB 8104
 
 [Twice Tier List](https://i.imgur.com/SCWPAk2.png)
 
-
-[Twice Tier List](https://i.imgur.com/I2rCFlb.jpg)
+[Clash Royale Tier List](https://i.imgur.com/I2rCFlb.jpg)
 
 ### Patch Notes
 
