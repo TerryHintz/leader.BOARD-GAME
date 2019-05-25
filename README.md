@@ -81,7 +81,7 @@ $5 - Reset all stats
 
 $2 - Have the option to hide elo
 
-$2 - Have the option to hide wins, loses and win %
+$2 - Have the option to hide wins, loses, draws, win % and +/-
 
 $1 - Name change
 
