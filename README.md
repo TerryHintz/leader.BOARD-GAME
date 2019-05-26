@@ -78,7 +78,7 @@ Friday   - 12:30pm - RCB 8104
 
 [Elo Calculator](https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing)
 
-[Twice Tier List](https://i.imgur.com/SCWPAk2.png)
+[TWICE Tier List](https://i.imgur.com/SCWPAk2.png)
 
 [Clash Royale Tier List](https://i.imgur.com/I2rCFlb.jpg)
 
