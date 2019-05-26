@@ -59,6 +59,13 @@ Friday   - 12:30pm - RCB 8104
 
 ### Recent Match Results
 
+## <center>Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/26/2019</span></center>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Lose   | 1000  | +20    |
+| Gaurav | Win    | 1000  | -20    |
+
 ## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: <span style="color:red">05/23/2019</span></center>
 
 | Player | Result | Elo   | Change |
