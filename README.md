@@ -17,6 +17,16 @@ Thursday - 3:30pm - Enginnering Common Room
 
 Friday   - 12:30pm - RCB 8104
 
+### Santorini Leaderboard
+
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 980  | 0    | 1     | 0     | 0     | -1  |
+| Gaurav | 1020 | 1    | 0     | 0     | 100%  | +1  |
+| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
+
 ### Catan Leaderboard
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
@@ -28,16 +38,6 @@ Friday   - 12:30pm - RCB 8104
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Azul Leaderboard
-
-| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
-|--------|------|------|-------|-------|-------|-----|
-| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
-
-### Santorini Leaderboard
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
 |--------|------|------|-------|-------|-------|-----|
