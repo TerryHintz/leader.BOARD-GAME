@@ -2,7 +2,7 @@
 
 Database for leaderboard and game history
 
-### News
+### Prettiest girl in the world
 
 <img src="https://i.imgur.com/4k5spyv.jpg">
 
