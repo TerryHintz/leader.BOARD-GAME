@@ -4,7 +4,7 @@ Database for leaderboard and game history
 
 ### News
 
-No News
+<img src="https://i.imgur.com/4k5spyv.jpg">
 
 ### Trending Songs
 
