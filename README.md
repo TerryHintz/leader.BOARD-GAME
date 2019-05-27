@@ -63,8 +63,8 @@ Friday   - 12:30pm - RCB 8104
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
-| Leo    | Lose   | 1000  | +20    |
-| Gaurav | Win    | 1000  | -20    |
+| Leo    | Lose   | 1000  | -20    |
+| Gaurav | Win    | 1000  | +20    |
 
 ## <center>Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: <span style="color:red">05/23/2019</span></center>
 
