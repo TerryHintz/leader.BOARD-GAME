@@ -15,7 +15,7 @@ Database for leaderboard and game history
 ### Current Schedule
 Thursday - 3:30pm - Enginnering Common Room
 
-Friday   - 12:30pm - RCB 8104
+Friday   - 12:30pm - RCB 8104 <span style="font-size:2px">Jakub is Gay</span>
 
 ### Santorini Leaderboard
 
