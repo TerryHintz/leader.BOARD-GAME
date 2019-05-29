@@ -12,6 +12,8 @@ Database for leaderboard and game history
 
 [I'm so sick](https://www.youtube.com/watch?v=F4oHuML9U2A) - Apink
 
+[La Vie en Rose](https://www.youtube.com/watch?v=WZwr2a_lFWY) - IZ*ONE
+
 ### Current Schedule
 Thursday - 3:30pm - Enginnering Common Room
 
