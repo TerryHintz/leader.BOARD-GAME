@@ -61,7 +61,7 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 ### Recent Match Results
 
-#### <span style="left:0px">Game: <span style="color:blue">Santorini</span></span> Type: <span style="color:green">Ranked</span> <span style="right:0px">Date: <span style="color:red">05/26/2019</span></span>
+#### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/26/2019</span>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
