@@ -33,10 +33,10 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
 |--------|------|------|-------|-------|-------|-----|
-| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Leo    | 1020 | 1    | 0     | 0     | 100%     | +1   |
+| Gaurav | 993 | 0    | 1     | 0     | 0     | -1   |
+| Jakub  | 987 | 0    | 1     | 0     | 0     | -1   |
+| Josh   | 993 | 0    | 1     | 0     | 0     | -1   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Azul Leaderboard
@@ -60,6 +60,15 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Recent Match Results
+
+#### Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: <span style="color:red">05/23/2019</span>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Win     | 1000  | +20    |
+| Jakub  | Forfeit | 1000  | -13      |
+| Gaurav | Lose    | 1000  | -7      |
+| Josh   | Lose    | 1000  | -7      |
 
 #### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/26/2019</span>
 
