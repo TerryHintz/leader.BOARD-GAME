@@ -78,6 +78,8 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 ### Resources
 
+[Ranked Rules]()
+
 [Elo Calculator](https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing)
 
 [TWICE Tier List](https://i.imgur.com/SCWPAk2.png) <span style="font-size:1px">Tell Leo you found this for $1 in credits</span>
