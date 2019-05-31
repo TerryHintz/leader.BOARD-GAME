@@ -19,16 +19,6 @@ Thursday - 3:30pm - Enginnering Common Room
 
 Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
-### Santorini Leaderboard
-
-| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
-|--------|------|------|-------|-------|-------|-----|
-| Leo    | 980  | 0    | 1     | 0     | 0     | -1  |
-| Gaurav | 1020 | 1    | 0     | 0     | 100%  | +1  |
-| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
-
 ### Catan Leaderboard
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
@@ -37,6 +27,16 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 | Gaurav | 993 | 0    | 1     | 0     | 0     | -1   |
 | Jakub  | 987 | 0    | 1     | 0     | 0     | -1   |
 | Josh   | 993 | 0    | 1     | 0     | 0     | -1   |
+| Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
+
+### Santorini Leaderboard
+
+| Player | Elo  | Wins | Loses | Draws | Win % | +/- |
+|--------|------|------|-------|-------|-------|-----|
+| Leo    | 980  | 0    | 1     | 0     | 0     | -1  |
+| Gaurav | 1020 | 1    | 0     | 0     | 100%  | +1  |
+| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Azul Leaderboard
