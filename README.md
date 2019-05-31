@@ -15,9 +15,8 @@ Database for leaderboard and game history
 [La Vie en Rose](https://www.youtube.com/watch?v=WZwr2a_lFWY) - IZ*ONE
 
 ### Current Schedule
-Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is Gay</span>
 
-<span style="font-size:4px">Jakub is Gay</span> CANCELLED
+Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is Gay</span>
 
 ### Catan Leaderboard
 
