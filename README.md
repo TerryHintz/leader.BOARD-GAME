@@ -15,9 +15,7 @@ Database for leaderboard and game history
 [La Vie en Rose](https://www.youtube.com/watch?v=WZwr2a_lFWY) - IZ*ONE
 
 ### Current Schedule
-Thursday - 3:30pm - Enginnering Common Room
-
-Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
+Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is Gay</span>
 
 ### Catan Leaderboard
 
