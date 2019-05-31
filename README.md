@@ -65,8 +65,8 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
-| Leo    | Win   | 980  | +20    |
-| Gaurav | Lose    | 1020  | -20    |
+| Leo    | Win   | 1002  | +20    |
+| Gaurav | Lose    | 998  | -20    |
 
 #### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/30/2019</span>
 
