@@ -61,7 +61,7 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 ### Recent Match Results
 
-#### Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Casual</span> Date: <span style="color:red">05/23/2019</span>
+#### Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/30/2019</span>
 
 | Player | Result | Elo   | Change |
 |--------|--------|-------|--------|
