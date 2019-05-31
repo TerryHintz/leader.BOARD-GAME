@@ -33,8 +33,8 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
 |--------|------|------|-------|-------|-------|-----|
-| Gaurav | 1020 | 1    | 0     | 0     | 100%  | +1  |
-| Leo    | 980  | 0    | 1     | 0     | 0     | -1  |
+| Gaurav | 998 | 1    | 1     | 0     | 50%  | 0  |
+| Leo    | 1002  | 1    | 1     | 0     | 50%     | 0  |
 | Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
@@ -60,6 +60,14 @@ Friday   - 12:30pm - RCB 8104 <span style="font-size:4px">Jakub is Gay</span>
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Recent Match Results
+
+#### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/26/2019</span>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Win   | 980  | +22    |
+| Gaurav | Lose    | 1020  | -22    |
+
 
 #### Game: <span style="color:blue">Catan</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/30/2019</span>
 
