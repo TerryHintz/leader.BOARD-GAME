@@ -97,7 +97,7 @@ Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is
 
 ### Resources
 
-[Prettiest girl in the world](https://i.imgur.com/4k5spyv.jpg)
+[Prettiest Girl in the World](https://i.imgur.com/4k5spyv.jpg)
 
 [Ranked Rules]()
 
