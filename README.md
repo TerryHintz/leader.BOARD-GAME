@@ -2,10 +2,6 @@
 
 Database for leaderboard and game history
 
-### Prettiest girl in the world
-
-<img src="https://i.imgur.com/4k5spyv.jpg">
-
 ### Trending Songs
 
 [Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
@@ -100,6 +96,8 @@ Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is
 | Gaurav | Lose   | 1000  | 0      |
 
 ### Resources
+
+[Prettiest girl in the world](https://i.imgur.com/4k5spyv.jpg")
 
 [Ranked Rules]()
 
