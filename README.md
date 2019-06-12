@@ -6,7 +6,7 @@ Database for leaderboard and game history
 
 [Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
 
-[I'm so sick](https://www.youtube.com/watch?v=F4oHuML9U2A) - Apink
+[%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
 
 [La Vie en Rose](https://www.youtube.com/watch?v=WZwr2a_lFWY) - IZ*ONE
 
