@@ -6,9 +6,9 @@ Database for leaderboard and game history
 
 [Outta My Head](https://www.youtube.com/watch?v=_ovzoV5WExY) - SOMI
 
-[%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
-
 [Black](https://www.youtube.com/watch?v=JF1rWk18n_A) - G-DRAGON, JENNIE
+
+[%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
 
 ### Current Schedule
 
