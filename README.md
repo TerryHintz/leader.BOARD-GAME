@@ -4,11 +4,11 @@ Database for leaderboard and game history
 
 ### Trending Songs
 
-[Fancy](https://www.youtube.com/watch?v=kOHB85vDuow) - TWICE
+[Outta My Head](https://www.youtube.com/watch?v=_ovzoV5WExY) - SOMI
 
 [%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
 
-[La Vie en Rose](https://www.youtube.com/watch?v=WZwr2a_lFWY) - IZ*ONE
+[Black](https://www.youtube.com/watch?v=JF1rWk18n_A) - G-DRAGON, JENNIE
 
 ### Current Schedule
 
