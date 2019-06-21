@@ -12,7 +12,7 @@ Database for leaderboard and game history
 
 ### Current Schedule
 
-Thursday - 3:30pm - Enginnering Common Room <span style="font-size:4px">Jakub is Gay</span>
+Currently not running <span style="font-size:4px">Jakub is Gay</span>
 
 ### Catan Leaderboard
 
