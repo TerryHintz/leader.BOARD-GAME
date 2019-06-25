@@ -10,6 +10,8 @@ Database for leaderboard and game history
 
 [%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
 
+[What 2 Do](https://www.youtube.com/watch?v=gMrYfJGm7kM) - DEAN, Crush, Jeff Bernat
+
 ### Current Schedule
 
 Currently not running <span style="font-size:4px">Jakub is Gay</span>
