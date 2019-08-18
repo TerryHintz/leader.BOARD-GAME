@@ -4,11 +4,11 @@ Database for leaderboard and game history
 
 ### Trending Songs
 
-[Outta My Head](https://www.youtube.com/watch?v=_ovzoV5WExY) - SOMI
+[BBIBBI](https://www.youtube.com/watch?v=nM0xDI5R50E) - IU
 
-[Black](https://www.youtube.com/watch?v=JF1rWk18n_A) - G-DRAGON, JENNIE
+[Intro: Serendipity](https://www.youtube.com/watch?v=BEMaH9Sm3lQ) - JIMIN
 
-[%%](https://www.youtube.com/watch?v=499YUeNoYVE) - Apink
+[Through the Night](https://www.youtube.com/watch?v=BzYnNdJhZQw) - IU
 
 [What 2 Do](https://www.youtube.com/watch?v=gMrYfJGm7kM) - DEAN, Crush, Jeff Bernat
 
