@@ -30,9 +30,9 @@ Currently not running <span style="font-size:4px">Jakub is Gay</span>
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
 |--------|------|------|-------|-------|-------|-----|
-| Leo    | 1022  | 2    | 1     | 0     | 67%     | +1  |
+| Leo    | 1037  | 4    | 2     | 0     | 67%     | +2  |
 | Gaurav | 978 | 1    | 2     | 0     | 33%  | -1  |
-| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Jakub  | 975 | 1    | 2     | 0     | 33%     | -1   |
 | Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
@@ -57,6 +57,27 @@ Currently not running <span style="font-size:4px">Jakub is Gay</span>
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
 ### Recent Match Results
+
+#### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">09/16/2019</span>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Win   | 1018  | +19    |
+| Jakub | Lose    | 1004  | -19    |
+
+#### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/26/2019</span>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Lose   | 1041  | -23    |
+| Jakub | Win    | 981  | +23    |
+
+#### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">09/16/2019</span>
+
+| Player | Result | Elo   | Change |
+|--------|--------|-------|--------|
+| Leo    | Win   | 1022  | +19    |
+| Jakub | Lose    | 1000  | -19    |
 
 #### Game: <span style="color:blue">Santorini</span> Type: <span style="color:green">Ranked</span> Date: <span style="color:red">05/30/2019</span>
 
