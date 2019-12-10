@@ -2,16 +2,6 @@
 
 Database for leaderboard and game history
 
-### Trending Songs
-
-[BBIBBI](https://www.youtube.com/watch?v=nM0xDI5R50E) - IU
-
-[Intro: Serendipity](https://www.youtube.com/watch?v=BEMaH9Sm3lQ) - JIMIN
-
-[Through the Night](https://www.youtube.com/watch?v=BzYnNdJhZQw) - IU
-
-[What 2 Do](https://www.youtube.com/watch?v=gMrYfJGm7kM) - DEAN, Crush, Jeff Bernat
-
 ### Current Schedule
 
 Currently not running <span style="font-size:4px">Jakub is Gay</span>
