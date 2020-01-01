@@ -110,8 +110,6 @@ Currently not running <span style="font-size:4px">Jakub is Gay</span>
 
 ### Resources
 
-[Prettiest Girl in the World](https://i.imgur.com/4k5spyv.jpg)
-
 [Ranked Rules]()
 
 [Elo Calculator](https://docs.google.com/spreadsheets/d/1GPref0aQ8dhQAkpkoBJGKyd6Vp76wi9PP4_AOw9J8ys/edit?usp=sharing)
