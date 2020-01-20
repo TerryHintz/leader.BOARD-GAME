@@ -40,9 +40,9 @@ Currently not running <span style="font-size:4px">Jakub is Gay</span>
 
 | Player | Elo  | Wins | Loses | Draws | Win % | +/- |
 |--------|------|------|-------|-------|-------|-----|
-| Leo    | 1000 | 0    | 0     | 0     | 0     | 0   |
+| Leo    | 1020 | 1    | 0     | 0     | 100%     | 1   |
+| Jakub  | 980 | 0    | 1     | 0     | 0%     | -1   |
 | Gaurav | 1000 | 0    | 0     | 0     | 0     | 0   |
-| Jakub  | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Josh   | 1000 | 0    | 0     | 0     | 0     | 0   |
 | Mathew | 1000 | 0    | 0     | 0     | 0     | 0   |
 
