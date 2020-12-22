@@ -1,3 +1,5 @@
+## THIS IS NOT A REAL BOARD GAME SHOP / GATHERING PLACE, the reviews were just for fun
+
 ## Welcome to Leo's Board Game Corner
 
 Database for leaderboard and game history
